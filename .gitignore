@@ -1,0 +1,14 @@
+# Vivado 产生的日志和临时文件
+*.jou
+*.log
+*.str
+*.dmp
+*.zip
+
+# Vivado 运行和缓存文件夹
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/

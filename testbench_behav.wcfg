@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="645922851fs"></ZoomStartTime>
+      <ZoomEndTime time="824815430fs"></ZoomEndTime>
+      <Cursor1Time time="795000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="130"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="32" />
+   <wvobject fp_name="/testbench/test1/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/data_in" type="array">
+      <obj_property name="ElementShortName">data_in[63:0]</obj_property>
+      <obj_property name="ObjectShortName">data_in[63:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/q" type="array">
+      <obj_property name="ElementShortName">q[22:0]</obj_property>
+      <obj_property name="ObjectShortName">q[22:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/done" type="logic">
+      <obj_property name="ElementShortName">done</obj_property>
+      <obj_property name="ObjectShortName">done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/data_out" type="array">
+      <obj_property name="ElementShortName">data_out[22:0]</obj_property>
+      <obj_property name="ObjectShortName">data_out[22:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/s21" type="array">
+      <obj_property name="ElementShortName">s21[85:0]</obj_property>
+      <obj_property name="ObjectShortName">s21[85:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/s18" type="array">
+      <obj_property name="ElementShortName">s18[85:0]</obj_property>
+      <obj_property name="ObjectShortName">s18[85:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/s12" type="array">
+      <obj_property name="ElementShortName">s12[85:0]</obj_property>
+      <obj_property name="ObjectShortName">s12[85:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/s11" type="array">
+      <obj_property name="ElementShortName">s11[85:0]</obj_property>
+      <obj_property name="ObjectShortName">s11[85:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/s9" type="array">
+      <obj_property name="ElementShortName">s9[85:0]</obj_property>
+      <obj_property name="ObjectShortName">s9[85:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/sum1" type="array">
+      <obj_property name="ElementShortName">sum1[85:0]</obj_property>
+      <obj_property name="ObjectShortName">sum1[85:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/sum2" type="array">
+      <obj_property name="ElementShortName">sum2[85:0]</obj_property>
+      <obj_property name="ObjectShortName">sum2[85:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/sum3" type="array">
+      <obj_property name="ElementShortName">sum3[85:0]</obj_property>
+      <obj_property name="ObjectShortName">sum3[85:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/sum4" type="array">
+      <obj_property name="ElementShortName">sum4[85:0]</obj_property>
+      <obj_property name="ObjectShortName">sum4[85:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/plus" type="array">
+      <obj_property name="ElementShortName">plus[63:0]</obj_property>
+      <obj_property name="ObjectShortName">plus[63:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/data_after" type="array">
+      <obj_property name="ElementShortName">data_after[63:0]</obj_property>
+      <obj_property name="ObjectShortName">data_after[63:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/data_tran" type="array">
+      <obj_property name="ElementShortName">data_tran[128:0]</obj_property>
+      <obj_property name="ObjectShortName">data_tran[128:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/Q" type="array">
+      <obj_property name="ElementShortName">Q[22:0]</obj_property>
+      <obj_property name="ObjectShortName">Q[22:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/data" type="array">
+      <obj_property name="ElementShortName">data[64:0]</obj_property>
+      <obj_property name="ObjectShortName">data[64:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/cnt" type="array">
+      <obj_property name="ElementShortName">cnt[10:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt[10:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/width" type="array">
+      <obj_property name="ElementShortName">width[31:0]</obj_property>
+      <obj_property name="ObjectShortName">width[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test1/r_mod_q" type="array">
+      <obj_property name="ElementShortName">r_mod_q[31:0]</obj_property>
+      <obj_property name="ObjectShortName">r_mod_q[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test3/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test3/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test3/data_in" type="array">
+      <obj_property name="ElementShortName">data_in[63:0]</obj_property>
+      <obj_property name="ObjectShortName">data_in[63:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test3/q" type="array">
+      <obj_property name="ElementShortName">q[22:0]</obj_property>
+      <obj_property name="ObjectShortName">q[22:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test3/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test3/done" type="logic">
+      <obj_property name="ElementShortName">done</obj_property>
+      <obj_property name="ObjectShortName">done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test3/data_out" type="array">
+      <obj_property name="ElementShortName">data_out[22:0]</obj_property>
+      <obj_property name="ObjectShortName">data_out[22:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/test3/width" type="array">
+      <obj_property name="ElementShortName">width[31:0]</obj_property>
+      <obj_property name="ObjectShortName">width[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
